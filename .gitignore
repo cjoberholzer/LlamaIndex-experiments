@@ -1,3 +1,4 @@
 .env
 .idea
 .venv
+query_engine-llamaindex_documentation/data/storage
